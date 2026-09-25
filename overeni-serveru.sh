@@ -16,8 +16,6 @@ timestamp=$(date -u +%Y-%m-%dT%H:%M:%SZ)
 host=$(uname -n)
 kernel=$(uname -r)
 distro=${PRETTY_NAME:-${ID:-Linux}}
-# SHA-256 se počítá z UTF-8 záznamu včetně posledního LF.
-# Náhodné UUID zajistí nový kód při každém spuštění.
 record=$(printf '%s\n' \
     'Úloha: git-vagrant / SPOŠ / 3. I / v1' \
     "Distribuce: $distro" \
