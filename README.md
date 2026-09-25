@@ -24,4 +24,5 @@ Virtualizace: oracle
 Náhodné ID: 869ab909-6d9b-446a-a632-13041158a760
 ```
 
-- **Bonus – AI obrázek a použitý prompt:** neplním
+- **Bonus – AI obrázek a použitý prompt: Gemini
+- A wide cinematic digital illustration of a cozy student's desk at night, with a laptop showing a terminal window with green command-line text. Above the laptop, three glowing translucent virtual server boxes float in the air, connected by bright network lines like a small virtual data center. On one side, a branching tree of glowing nodes representing version control history. A friendly penguin sits next to the laptop, looking at the floating servers. Blue and purple neon lighting, soft depth of field, modern tech aesthetic, clean composition, 16:9, no text, no logos.
