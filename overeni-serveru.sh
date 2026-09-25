@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-# Veřejný kontrolní záznam; nejde o nezfalšovatelný důkaz použití Vagrantu.
+
 set -euo pipefail
 fail() { printf 'Chyba: %s\n' "$*" >&2; exit 1; }
 [[ $(uname -s) == Linux ]] || fail "Skript spusťte uvnitř Linux serveru přes vagrant ssh."
