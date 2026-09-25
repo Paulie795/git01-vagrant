@@ -2,7 +2,7 @@
 
 Samostatná práce z předmětu Operační systémy (OSY), SPOŠ Dvůr Králové nad Labem.
 Autor: Pavel Podzimek
-![Moje virtuální Linuxová laboratoř](./Images/tuc.png)
+![Moje virtuální Linuxová laboratoř](./Images/tuc.jpg)
 ## Moje řešení
 
 - **Distribuce a verze:** Debian GNU/Linux 13.1 (trixie)
